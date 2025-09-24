@@ -36,7 +36,7 @@ For each input set, print the distance driven, followed by a space, followed by 
 
 ### Sample Input 1
 ```shell
-
+3
 20 2
 30 6
 10 7
